@@ -57,7 +57,7 @@ public class CorePlugin extends Plugin {
 
     public CorePlugin() {
         plugin = this;
-
+	DESK TOP
     }
 
     /*
