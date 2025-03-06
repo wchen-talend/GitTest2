@@ -34,3 +34,5 @@ commit 1: desktop  111
 		'secondaryIPColor=90,90,90'
 		'spellingIndicationColor=253,170,211'
 		'writeOccurrenceIndicationColor=27,98,145'
+
+		Hello
